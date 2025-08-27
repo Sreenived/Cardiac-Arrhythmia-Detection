@@ -21,8 +21,7 @@ You can directly try this project in Colab without installing anything:
 ---
 
 ## 📂 Project Files
-- `Cardiac_Arrhythmia.ipynb` → main notebook  
-- `Cardiac_Arrhythmia.py` → script version (optional)  
+- `main.ipynb` → main notebook    
 - `requirements.txt` → dependencies  
 - `images/` → confusion matrix, plots, outputs  
 
