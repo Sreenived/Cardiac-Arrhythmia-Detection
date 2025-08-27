@@ -31,9 +31,10 @@ You can directly try this project in Colab without installing anything:
 ## 📊 Results
 - Accuracy: **97%**  
 - Confusion Matrix:  
-  ![Confusion Matrix](images/confusion_matrix.png)
-- ROC Curve:
-  ![ROC Curve](images/roc_curve.png)
+  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"/>  
+
+- ROC Curve:  
+  <img src="images/roc_curve.png" alt="ROC Curve" width="400"/>
 
 ---
 
