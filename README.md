@@ -7,8 +7,8 @@ The model was trained on MIT-BIH ECG Dataset and achieves **97% accuracy**.
 ---
 
 ## 🚀 Run in Google Colab
-You can directly try this project in Colab without installing anything:
-Before executing this notebook in Google Colab, add the data folder(containing heartbeat.npy and labels.npy files) to your Google Drive.
+You can directly try this project in Colab without installing anything:  
+N.B: Before executing this notebook in Google Colab, add the data folder(containing heartbeat.npy and labels.npy files) to your Google Drive.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nivedsree/Cardiac-Arrhythmia-Detection/blob/main/cardiac_arrhythmia.ipynb)
 
